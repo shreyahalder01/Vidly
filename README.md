@@ -1,7 +1,7 @@
 # Vidly - Video Downloader
 
 Vidly is a web application that lets you download videos from a given URL.
-
+https://shreyahalder01.github.io/Vidly/
 ## Features
 - Choose video quality before downloading
 - Real-time download progress bar
